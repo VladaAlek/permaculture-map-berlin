@@ -2,7 +2,7 @@
 
 ## Objective 
 
-Contemporary urban societies are faced with numerous environmental, sociological, economic, and other challenges. For many, permaculture, as a unique and innovative form of gardening, commonly practices in urban environment, provides the best response to many of these issues. Our project aims to showcase numerous successful examples from Berlin using an interactive map and to educate users about the advantages of regenerative urban food production. Our project serves as a powerful tool to connect and educate individuals passionate about sustainable urban living, ultimately contributing to making Berlin a greener and more environmentally conscious city.
+Contemporary urban societies are faced with numerous environmental, sociological, economic, and other challenges. For many, permaculture, as a unique and innovative form of gardening, commonly practices in urban environments, provides the best response to many of these issues. Our project aims to showcase numerous successful examples from Berlin using an interactive map and to educate users about the advantages of regenerative urban food production. Our project serves as a powerful tool to connect and educate individuals passionate about sustainable urban living, ultimately contributing to making Berlin a greener and more environmentally conscious city.
 
 ## Target Groups
 
