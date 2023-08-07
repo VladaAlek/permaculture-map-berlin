@@ -41,3 +41,6 @@ This section holds value for users as it allows them to personally contribute to
 ## About Us 
 
 This page will...
+
+![image](https://github.com/VladaAlek/permaculture-map-berlin/assets/28791829/c155f1e9-f94d-444d-9a85-35a695009083)
+
