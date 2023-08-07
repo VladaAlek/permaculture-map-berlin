@@ -32,8 +32,12 @@ The landing page showcases a photo or a compilation of photos representing urban
 
 This segment is designed to motivate users to actively delve into the interactive Story map, engaging with its rich textual and audio-visual content. The content aims to be an engaging mix of informative, educational, and inspirational elements. This trifecta is intended to foster a positive user experience and prompt visitors to return to the site multiple times.
 A short accompanying text will provide context for the map. For a seamless connection to the site's Form page, an additional link <em>CTA<em> will be placed in close proximity to the map, inviting users to share their valuable insights and information about ongoing permaculture projects. This user engagement allows for continuous updates and enrichment of the map's content, making it a truly collaborative and evolving resource.
+![Home_Page](https://github.com/VladaAlek/permaculture-map-berlin/assets/28791829/31f65cee-7c29-4a3b-afa1-43b1cbf0f6a2)
 
-## Form page
+
+
+## Form page!
+
 
 This page will offer users the chance to contribute their own data. Information gathered in this manner will be integrated into the map by our web page administrators.
 This section holds value for users as it allows them to personally contribute to the evolving environmental movement in Berlin.
