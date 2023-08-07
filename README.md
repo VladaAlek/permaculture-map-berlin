@@ -43,9 +43,11 @@ A short accompanying text will provide context for the map. For a seamless conne
 This page will offer users the chance to contribute their own data. Information gathered in this manner will be integrated into the map by our web page administrators.
 This section holds value for users as it allows them to personally contribute to the evolving environmental movement in Berlin.
 
+
+![Form_Page](https://github.com/VladaAlek/permaculture-map-berlin/assets/28791829/62adb7f6-0eeb-4c5a-87d5-758114183402)
+
 ## About Us 
 
 This page will...
 
-![image](https://github.com/VladaAlek/permaculture-map-berlin/assets/28791829/c155f1e9-f94d-444d-9a85-35a695009083)
 
