@@ -23,7 +23,7 @@ Our product will offer two vital functions:
 ## Common Features
 
 ### Logo 
-The clickable logo of the organization behind this project will be positioned in the upper right corner of the viewport. This will serve as a direct link to NGO (Peace of Land - Berlin) [https://www.peaceof.land].
+The clickable logo of the organization behind this project will be positioned in the upper right corner of the viewport. This will serve as a direct link to NGO (Peace of Land "POL" - Berlin) [https://www.peaceof.land].
 
 ### Navigation Bar
 Displayed across all three pages, the fully responsive navigation bar, featuring links to the Home page, Form page, and About Us, ensures seamless navigation as its identical presence on each page offers consistency. 
