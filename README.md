@@ -16,8 +16,9 @@ Our product will offer two vital functions:
    
    ![grafik](https://github.com/VladaAlek/permaculture-map-berlin/assets/28791829/c16b01da-b033-4266-be78-3cbbc91a5ff6)
 
+   <em>The snapshot of the Esri StoryMap showcases a navigable map on the right side, complemented by a navigation panel filled with photographic and textual content.</em>
 
-3.	The website will also contain a unique form page that will allow users to enter information about new permaculture projects in Berlin. This type of crowd sourcing will continuously support the extension of our existing database and updating of the map. A lasting benefit of this part of the site is the strong incentive it provides for networking activities among members of the permaculture community in Berlin.
+2.	The website will also contain a unique form page that will allow users to enter information about new permaculture projects in Berlin. This type of crowd sourcing will continuously support the extension of our existing database and updating of the map. A lasting benefit of this part of the site is the strong incentive it provides for networking activities among members of the permaculture community in Berlin.
 
 ## Common Features
 
