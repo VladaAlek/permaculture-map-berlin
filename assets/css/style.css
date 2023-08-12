@@ -1,4 +1,78 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 50px;
-}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans'. sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 120px;
+    background-color: rgba(78, 70, 74, 0.41);
+    /*min-max: (200px, 350px); nisam siguran da je ovo potrebno*/
+  }
+
+  .logo {
+    color: red;
+    font-size: 1.2rem;
+  }
+  span {
+    color: pink;
+  }
+  
+  .logo a {
+    text-decoration: none;
+  }
+  
+  .logo a:hover {
+    color: pink;
+    transition: .3s;
+    cursor: pointer;
+  }
+  div ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 10px;
+  }
+  
+  div ul li a {
+    color: brown;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  div ul li a:hover {
+    color: pink;
+    transition: .3s;
+    cursor: pointer;
+  }
+
+  @media screen and (max-width: 410px)
+  {
+    div ul li {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: flex-start;
+      }
+  }
+
+  .navbar {
+    height: 150px;
+    padding-top: 10px;
+  }
+  
+
+  /* coolors 79, 100, 111 4F646F  ray color
+  platinum DEE7E7  */
+  /*https://coolors.co/a1e8af-94c595-747c92-372772-3a2449
+  */
+  /*https://coolors.co/c4f1be-a2c3a4-869d96-525b76-201e50*/
+  /*Roboto + Rokkitt  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300&display=swap" rel="stylesheet">*/
