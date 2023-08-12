@@ -10,7 +10,7 @@ consists of nature lovers, individuals passionate about a healthy lifestyle and 
 ### Users Benefits
 #### A) 
 is and straightforward search of all permaculture projects in Berlin achieved through an interactive map Story Map technology of ArcGIS. It allows the combination of cartographic, textual, and audio-visual material.
-![Esri Story Map - Peace of Land](C:\VLADIMIR ALEKSIC\WEB DEWELOPER\CODE_INSTITUTE\PERMACULTURE BERLIN\slike "Esri Story Map - Peace of Land")
+
 #### B)
 a Form page will allow users to enter information about new permaculture projects in Berlin to support the extension and updating of the map.
 
@@ -26,7 +26,6 @@ In continuation, an easily readable **navigation bar** is positioned on all thre
 Underneath, there is a motivating **Hero Image** accompanied by the **Title** and **Subtitle**.
 
 By scrolling down, users can read a brief **Paragraph** to gain insight into the site's purpose.
-![C:\VLADIMIR ALEKSIC\WEB DEWELOPER\CODE_INSTITUTE\PERMACULTURE BERLIN](Home Page "C:\VLADIMIR ALEKSIC\WEB DEWELOPER\CODE_INSTITUTE\PERMACULTURE BERLIN")
 
 **Map Section** is designed to motivate users to actively delve into the interactive Story map, captivating with its rich textual and audio-visual content. An engaging mix of informative, educational, and inspirational elements is intended to foster a positive user experience and prompt visitors to return to the site multiple times.
 
@@ -37,14 +36,12 @@ The **footer section** hosts links to Peace of Land's pertinent social media pla
 #### Form Page
 Information gathered in this manner will be integrated into the map by our web page administrators. This section holds value for users as it allows them to contribute to the evolving environmental movement in Berlin personally.
 
-![Form Page](C:\VLADIMIR ALEKSIC\WEB DEWELOPER\CODE_INSTITUTE\PERMACULTURE BERLIN "Form Page")
-#### About Us Page
 
 ####   A)
 describes the principal objectives and activities of POL, an NGO that operates the site "PERMACULTURE-MAP-BERLIN".
 
 ####    B)
 delievers fundamental information about practicing permaculture in urban environments with temperate climates. This includes several links to relevant educational resources.
-![About Us](C:\VLADIMIR ALEKSIC\WEB DEWELOPER\CODE_INSTITUTE\PERMACULTURE BERLIN "About Us")
+
 
 
