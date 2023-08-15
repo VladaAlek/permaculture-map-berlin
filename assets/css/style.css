@@ -5,7 +5,7 @@
     font-family: 'Josefin Sans'. sans-serif;
   }
   
-  .navbar {
+  /*.navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
